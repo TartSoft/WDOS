@@ -31,3 +31,5 @@ File/Folder Options:
 
 Note:
 - Version 1.0 might have too many bugs, you should use version 1.2
+- Version 1.2 is better, but still have bugs when you start the Timer option.
+- Version 1.3 currently in developing, have many errors
