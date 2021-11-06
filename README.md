@@ -28,3 +28,6 @@ Net Commands:
 
 File/Folder Options:
 - file/tmpcln
+
+Note:
+- Version 1.0 might have too many bugs, you should use version 1.2
