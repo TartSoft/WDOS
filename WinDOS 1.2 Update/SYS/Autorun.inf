@@ -1,0 +1,4 @@
+[autorun]
+open=WinDOS.bat
+icon=Icon.ico
+label=Install and Start WinDOS used CD or USB
