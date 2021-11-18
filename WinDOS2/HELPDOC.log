@@ -1,0 +1,27 @@
+WinDOS HELP DOCUMENT
+------------------------------------------------------------------------------------------------------------
+Please make sure you have all 
+the files needed, especially BOOT.ini (you need that file to successfuly use WinDOS).                              
+We don't have responsibility about your password. You will get an error message if you type the 
+wrong password. You can also Pull an Issues at: https://github.com/duongletrieu/WinDOS/issues to 
+make WinDOS better!                                                    
+-----------------------------------------------------------------------------------------------------------
+Link to updates:
+https://github.com/duongletrieu/WinDOS
+--------------------------------------------------------------
+Contact:
+E-mail: theblackvaultufofootage@gmail.com
+--------------------------------------------------------------
+Commands to use at Command Window:
+_________________________________________
+Power Commands:
+power/shutdown
+power/hibernate
+power/restart
+__________________________________________
+Net Commands:
+net/spdplan
+net/wifiimpexp
+__________________________________________
+File/Folder Commands:
+file/tmpcln
