@@ -1,35 +1,54 @@
-# WinDOS
-A Project to make an "OS" in Batch/CMD. Still developing. 
-I have coded a bunch of "command" in this "OS"
+![WinDOS icon](https://user-images.githubusercontent.com/92847004/142335823-81e50dbf-eecd-46f2-86ae-0233e7807a47.jpg) 
 
-Command to change theme:
-Note: You can only change theme at the Settings:
+WinDOS - Operating System in BF/CMD!
 
-- $theme-black
-- $theme-blue 
-- $theme-aqua
-- $theme-red
-- $theme-green
-- $theme-purple
-- $theme-yellow
-- $theme-white
-- $theme-white
+Description:
+-------------------------------------------
+WinDOS is simulation of operating system, developed in BF/CMD. Whole system is based on few files that interact with each others. This OS DOESN'T affect your computer data more than it should, so don't worry about losing data and infecting your computer
 
-Commands to use at Command Window:
+First version of WinDOS (WinDOS 1.0) was created on October, 2021
 
-Power Commands:
-- power/shutdown
-- power/hibernate
-- power/restart 
 
-Net Commands:
-- net/spdplan
-- net/wifiimpexp
+Installation:
+--------------------------------------------
+Installation is very easy. Download all the files from this repository (You can choose your version) AND remember to
+install all the files needed.
 
-File/Folder Options:
-- file/tmpcln
+Using WinDOS:
+-------------------------------------------
+If you have lost your BOOT.ini file, you'll get the blue screen.
+If you see the Blue Screen first time, press any key to shut the Blue Screen and install 
+the BOOT.ini file. If you have seen the Blue Screen multiple times, contact us for directions.
 
-Note:
-- Version 1.0 might have too many bugs, you should use version 1.2
-- Version 1.2 is better, but still have bugs when you start the Timer option.
-- Version 1.3 currently in developing, have many errors
+Contact:
+------------------------------------------
+Our E-mail: theblackvaultufofootage@gmail.com
+
+Website: https://github.com/duongletrieu/WinDOS
+
+TIPS:
+------------------------------------------
+You can use the newest version is WinDOS2, it's have fixed bugs
+
+
+
+
+
+
+
+
+██╗░░░░░░░██╗██╗███╗░░██╗██████╗░░█████╗░░██████╗  ░░░░░░  ███████╗░█████╗░██████╗░  ░█████╗░
+░██║░░██╗░░██║██║████╗░██║██╔══██╗██╔══██╗██╔════╝  ░░░░░░  ██╔════╝██╔══██╗██╔══██╗  ██╔══██╗
+░╚██╗████╗██╔╝██║██╔██╗██║██║░░██║██║░░██║╚█████╗░  █████╗  █████╗░░██║░░██║██████╔╝  ███████║
+░░████╔═████║░██║██║╚████║██║░░██║██║░░██║░╚═══██╗  ╚════╝  ██╔══╝░░██║░░██║██╔══██╗  ██╔══██║
+░░╚██╔╝░╚██╔╝░██║██║░╚███║██████╔╝╚█████╔╝██████╔╝  ░░░░░░  ██║░░░░░╚█████╔╝██║░░██║  ██║░░██║
+░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░░╚════╝░╚═════╝░  ░░░░░░  ╚═╝░░░░░░╚════╝░╚═╝░░╚═╝  ╚═╝░░╚═╝
+
+███╗░░██╗███████╗░██╗░░░░░░░██╗  ███████╗██╗░░██╗██████╗░███████╗██████╗░██╗███████╗███╗░░██╗░█████╗░███████╗
+████╗░██║██╔════╝░██║░░██╗░░██║  ██╔════╝╚██╗██╔╝██╔══██╗██╔════╝██╔══██╗██║██╔════╝████╗░██║██╔══██╗██╔════╝
+██╔██╗██║█████╗░░░╚██╗████╗██╔╝  █████╗░░░╚███╔╝░██████╔╝█████╗░░██████╔╝██║█████╗░░██╔██╗██║██║░░╚═╝█████╗░░
+██║╚████║██╔══╝░░░░████╔═████║░  ██╔══╝░░░██╔██╗░██╔═══╝░██╔══╝░░██╔══██╗██║██╔══╝░░██║╚████║██║░░██╗██╔══╝░░
+██║░╚███║███████╗░░╚██╔╝░╚██╔╝░  ███████╗██╔╝╚██╗██║░░░░░███████╗██║░░██║██║███████╗██║░╚███║╚█████╔╝███████╗
+╚═╝░░╚══╝╚══════╝░░░╚═╝░░░╚═╝░░  ╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚══════╝╚═╝░░╚═╝╚═╝╚══════╝╚═╝░░╚══╝░╚════╝░╚══════╝
+
+
