@@ -28,7 +28,8 @@ Website: https://github.com/duongletrieu/WinDOS
 
 TIPS:
 ------------------------------------------
-You can use the newest version is WinDOS2, it's have fixed bugs
+- You can use the newest version is WinDOS2, it's have fixed bugs
+- If you used WinDOS 1.2 Update or older, it's don't have BSoD
 
 
 
