@@ -13,6 +13,7 @@ if NOT exist "D:\Le Trieu Duong\Programming\WinDOS2\SYS\BOOT.ini" (
    start errscr.bat
    exit  
 )
+start WinDOS2 Update Checker.bat
 :login
 cls            
 echo ---------------------------
