@@ -2,6 +2,8 @@
 
 WinDOS - Operating System in BF/CMD!
 
+Or known as the first version of WinDOS line.
+
 Description:
 -------------------------------------------
 WinDOS is simulation of operating system, developed in BF/CMD. Whole system is based on few files that interact with each others. This OS DOESN'T affect your computer data more than it should, so don't worry about losing data and infecting your computer
